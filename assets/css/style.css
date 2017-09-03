@@ -1,0 +1,81 @@
+/*************PS.. WE ARE ALLOWED TO JUST USE BOOTSTRAP... IF THAT HELPS!!!*********/
+* {
+	color: #202926;
+	/*	text-shadow: CAN WE USE THIS TO OUTLINE LETTERS!?! */
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+	letter-spacing: .5px;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#textHeader {
+	font-family: 'Orbitron', sans-serif;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+span {
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+#gameStats {
+	font-family: 'Bungee Inline', cursive;
+}
+
+#wrapper {
+	background-image: url(../images/computer_BlankScreen.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat
+	transform: scaleZ(1);
+}
+
+#screenWrapper {
+	background-image: url(../images/screenBackground.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat
+	transform: scaleZ(2);
+}
+
+.container-fluid {
+	background-color: transparent;
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 300px;
+}
+
+.container {
+	text-align: center;
+	margin: 20px 10%;
+}
+
+#mainBody {
+	position: relative;
+	top: 20px;
+	height: 150%;
+}
+
+/*.jumbotron {
+	background-color: transparent;
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 300px;
+}*/
+
+.main-row {
+	margin-top: 100px;
+}
+
+.panel {
+	background-color: transparent;
