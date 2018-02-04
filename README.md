@@ -6,7 +6,7 @@ An interactive timed quiz that tests your knowledge of the history of computer e
 - - - -
 
  ### Deployment ###
- https://powerful-tundra-14272.herokuapp.com/
+ https://jetttech.github.io/TriviaGame/
 
  - - - -
 
